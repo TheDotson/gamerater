@@ -1,0 +1,29 @@
+[
+  {
+      "model": "gameraterapi.gamereview",
+      "pk": 1,
+      "fields": {
+          "review": "Worth a trial",
+          "game": 1,
+          "player": 1
+      }
+  },
+  {
+      "model": "gameraterapi.gamereview",
+      "pk": 2,
+      "fields": {
+          "review": "Where did all my time go?",
+          "game": 2,
+          "player": 1
+      }
+  },
+  {
+      "model": "gameraterapi.gamereview",
+      "pk": 3,
+      "fields": {
+          "review": "A modern gem!",
+          "game": 3,
+          "player": 1
+      }
+  }
+]

@@ -1,0 +1,42 @@
+
+[
+  {
+      "model": "gameraterapi.game",
+      "pk": 1,
+      "fields": {
+          "title": "Gin",
+          "designer": "Card Sharks beware!",
+          "description": "a 2-4 player card game for the ages",
+          "year_released": 1909,
+          "num_players": 4,
+          "game_image": "",
+          "category": 1
+      }
+  },
+  {
+      "model": "gameraterapi.game",
+      "pk": 2,
+      "fields": {
+          "title": "Final Fantasy XIV",
+          "designer": "Square-Enix",
+          "description": "A massive open world RPG",
+          "year_released":2013,
+          "num_players": 1,
+          "game_image": "",
+          "category": 6
+      }
+  },
+  {
+      "model": "gameraterapi.game",
+      "pk": 3,
+      "fields": {
+          "title": "Persona 5: Royal",
+          "designer": "Ubisoft",
+          "description": "Take off your mask!",
+          "year_released": 2020,
+          "num_players": 1,
+          "game_image": "",
+          "category": 6
+      }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "me",
+      "last_login": null,
+      "is_superuser": false,
+      "username":"JigsawComplex",
+      "first_name": "Michael",
+      "last_name": "Dotson",
+      "email": "me@me.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2020-12-28T14:51:39.989Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

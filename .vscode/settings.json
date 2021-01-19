@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "gamerater",
+      "database": "${workspaceFolder:gamerater}/db.sqlite3"
+    }
+  ]
+}
